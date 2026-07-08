@@ -96,7 +96,7 @@ export default {
 
 2. Create a new branch (git checkout -b feature/your-plugin)
 
-3. Commit your changes (git commit -am 'Add new plugin')
+3. Commit your changes (git commit -am 'Add new plugin'
 
 4. Push to the branch (git push origin feature/your-plugin)
 
